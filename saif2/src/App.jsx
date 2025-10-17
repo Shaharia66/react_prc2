@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 // import First ,{Fruit1} from './1stcom.jsx'
 import Fruit2 from './1stcom'
+import Hideandshow from './2ndcom'
+import Multcond from './2ndcom'
 
 
 function App() {
@@ -14,6 +16,8 @@ function App() {
     {/* <First/>
     <Fruit1/> */}
     <Fruit2/>
+    {/* <Hideandshow/> */}
+    <Multcond/>
     </>
   )
 }
