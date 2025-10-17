@@ -27,8 +27,8 @@ function App2(){
     return(
         <>
         <h1>Here start new component.</h1>
-        {/* <Props a={name} b={age} c={roll} d={email} e={userInfo.name} f={userInfo.age} g={userInfo.email}/> */}
-        <Props h={userInfo2}/>
+        {/* <Props a={name} b={age} c={roll} d={email} e={userInfo.name} f={userInfo.age} g={userInfo.email} h={userInfo2}/> */}
+        {/* <Props h={userInfo2}/> */}
         <Props h={userInfo3}/>
         <Props h={userInfo4}/>
         {/* <props e={userInfo.name} f={userInfo.age} g={userInfo.email}/> */}
